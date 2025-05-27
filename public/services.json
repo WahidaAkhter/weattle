@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "name":"India ",
+        "price":"$3000",
+        "description":"this place is amazing for tourist and it has some very antique places.",
+        "img":"https://img.freepik.com/free-photo/views-entrance-indian-temple_119635-5.jpg?t=st=1650261962~exp=1650262562~hmac=dec6cf014c751746f4849c731ca423cfdf5970ed2d02449898794d1449a64d43&w=1060"
+
+    },
+    {
+        "id":2,
+        "name":"Paris ",
+        "price":"$7000",
+        "description":"this place is amazing for tourist and it has some very antique places.",
+        "img":"https://img.freepik.com/free-photo/big-ben-westminster-bridge-sunset-london-uk_268835-1395.jpg?t=st=1650262027~exp=1650262627~hmac=ad237a8044d21aa55d89fc7a8a35c33e4e6c953473e3e6cb1c472463f0bce23d&w=1060"
+
+    },
+    {
+        "id":3,
+        "name":"Singapore",
+        "price":"%8500",
+        "description":"this place is amazing for tourist and it has some very antique places",
+        "img":"https://img.freepik.com/free-photo/cityscape-singapore_335224-688.jpg?t=st=1650262102~exp=1650262702~hmac=484a764f1442d49bea47c70e48aee76352c296db7483f584ad88f9092c0465cd&w=1060"
+
+    },
+    {
+        "id":4,
+        "name":"Dubai",
+        "price":"$5500",
+        "description":"this place is amazing for tourist and it has some very antique places",
+        "img":"https://img.freepik.com/free-photo/young-man-walking-towards-great-sphinx-giza_181624-51674.jpg?t=st=1650262194~exp=1650262794~hmac=714ba6ca9837c9714a46359b26c354c2b4eb296384827836f8856856cb13b8ca&w=1060"
+
+    },
+    {
+        "id":5,
+        "name":"Bangladesh",
+        "price":"$3500",
+        "description":"this place is amazing for tourist and it has some very antique places",
+        "img":"https://as1.ftcdn.net/v2/jpg/02/10/01/04/1000_F_210010478_QEaQ4zUPKMHeH8UErwGii1KUcuSEtqhA.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"Turkey",
+        "price":"$6500",
+        "description":"this place is amazing for tourist and it has some very antique places",
+        "img":"https://img.freepik.com/free-photo/building-with-domes-turrets_1122-1137.jpg?t=st=1650262394~exp=1650262994~hmac=cbbe65b56a64591ac5fe26070732bef61419ef738ed76abb6bd30e327d7694a8&w=1060"
+    }
+]
